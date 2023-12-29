@@ -1,8 +1,0 @@
-#pragma once
-
-#ifndef PCH_H
-#define PCH_H
-
-// Добавьте сюда заголовочные файлы для предварительной компиляции
-
-#endif //PCH_H
