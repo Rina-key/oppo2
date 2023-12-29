@@ -1,0 +1,2 @@
+﻿Stan.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Stan::correctHome(int)" (?correctHome@Stan@@QEAAXH@Z) в функции "public: void __cdecl Stan::readStan(class std::basic_istream<char,struct std::char_traits<char> > &)" (?readStan@Stan@@QEAAXAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z).
+C:\dart\oppo2-main\x64\Debug\ConsoleApplication16.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
